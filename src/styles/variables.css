@@ -1,0 +1,18 @@
+* {
+  --topbarHeight: 100px;
+
+  --brandPrimary: #c01818;
+  --brandPrimaryDark: #691000;
+  --brandPrimaryLight: #d81313;
+  --brandPrimaryLighter: #f1e4ff;
+
+  --neutral100: hsl(220, 10%, 97%);
+  --neutral200: hsl(220, 10%, 91%);
+  --neutral300: hsl(220, 10%, 85%);
+  --neutral400: hsl(220, 10%, 65%);
+  --neutral500: hsl(220, 10%, 51%);
+  --neutral600: hsl(220, 10%, 41%);
+  --neutral700: hsl(220, 10%, 24%);
+  --neutral800: hsl(220, 10%, 19%);
+  --neutral900: hsl(220, 10%, 7%);
+}
